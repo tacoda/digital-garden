@@ -3,30 +3,30 @@
 ## Install Dependencies
 
 ``` sh
-install.sh
+./install.sh
 ```
 
 ## Build Static Site
 
 ``` sh
-build.sh
+./build.sh
 ```
 
 **Useful commands:**
 
 ``` sh
-watchexec source build.sh
+watchexec source/ -- ./build.sh
 ```
 
 ## Serve Static Site
 
 ``` sh
-server.sh
+./server.sh
 ```
 
 ## Virtualenv Shell
 
 ``` sh
-shell.sh
+./shell.sh
 ```
 
