@@ -15,7 +15,7 @@
 **Useful commands:**
 
 ``` sh
-watchexec source/ -- ./build.sh
+watchexec source -- ./build.sh
 ```
 
 ## Serve Static Site
