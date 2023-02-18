@@ -8,8 +8,8 @@ Welcome to Digital Garden's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   books/index
 
 
 Indices and tables
